@@ -19,6 +19,7 @@
 *.lof
 *.lot
 *.loe
+*.swp
 latex/dtx-style.sty
 latex/thuthesis.cfg
 latex/thuthesis.cls
